@@ -1,6 +1,7 @@
 API BASE URL: https://0jq5kt41-5000.use2.devtunnels.ms/
 
 Activities Endpoints:
+
 -- Fetch All activities (GET)
 https://0jq5kt41-5000.use2.devtunnels.ms/activities
 
@@ -15,6 +16,7 @@ https://0jq5kt41-5000.use2.devtunnels.ms/activities/1
 
 
 Tasks Endpoints:
+
 -- Fetch All Tasks (GET)
 https://0jq5kt41-5000.use2.devtunnels.ms/tasks
 
